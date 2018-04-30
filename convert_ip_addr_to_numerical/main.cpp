@@ -13,6 +13,9 @@
 //#define _CRT_SECURE_NO_WARNINGS	1
 
 
+/**
+@brief Tests IP-to-uint32 and uint32-to-IP conversions.
+*/
 
 uint32_t ipAddrToUlong(char *ipAddrStr)
 {
